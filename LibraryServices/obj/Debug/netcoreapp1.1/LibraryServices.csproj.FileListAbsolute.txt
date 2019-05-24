@@ -1,0 +1,9 @@
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\bin\Debug\netcoreapp1.1\LibraryServices.deps.json
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\bin\Debug\netcoreapp1.1\LibraryServices.dll
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\bin\Debug\netcoreapp1.1\LibraryServices.pdb
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\bin\Debug\netcoreapp1.1\LibraryData.dll
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\bin\Debug\netcoreapp1.1\LibraryData.pdb
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.csprojResolveAssemblyReference.cache
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.AssemblyInfo.cs
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.dll
+C:\Users\jimmy\documents\visual studio 2017\Projects\Library\LibraryServices\obj\Debug\netcoreapp1.1\LibraryServices.pdb
