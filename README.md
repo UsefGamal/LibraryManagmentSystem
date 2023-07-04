@@ -1,6 +1,6 @@
 # Library Managment System
 
-A lightweight library management system built in .NET 5.0 with Entity Framework Core. Enables library administrators to manage Library Assets, Patrons, and Branches with basic functionality.
+A lightweight library management system built in .NET Core 1.0 with Entity Framework Core. Enables library administrators to manage Library Assets, Patrons, and Branches with basic functionality.
 
 ------------------------------------------------------------------------------------------------------------
 
