@@ -10,9 +10,7 @@ A lightweight library management system built in .NET Core 1.0 with Entity Frame
 |:--------|:--------|:--------|:--------|
 |`PostgreSQL`|`Html &CSS`|`Bootstrap 5`|`Razor Views`|
 
-
-
 ### Concepts  
-| `Model View Controller`| `Object Orietned Programming`|`Design Patterns`|`Design Patterns`|
-|  :--------     | :--------       |:--------       |:--------       |
-| `Code First database migrations `| `dependency injection`|`Services Patterns`|`ASP.NET Razor Engine`|
+| `Model View Controller`| `Object Orietned Programming`|`Design Patterns`|
+|  :--------     | :--------       |:--------       |
+| `Code First database migrations `| `dependency injection`|`Services Patterns`|
