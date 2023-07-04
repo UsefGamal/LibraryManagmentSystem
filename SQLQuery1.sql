@@ -1,8 +1,6 @@
 ﻿
 /* 
-	Demo data for Library Management System project 
-	database as used in the video tutorial by Wes Doyle.
-	See the full tutorial here: https://youtu.be/7rcCfCdiB9A
+	Demo data for Library Management System project
 */
 
 INSERT INTO 
