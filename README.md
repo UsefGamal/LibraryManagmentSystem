@@ -1,27 +1,18 @@
 # Library Managment System
 
+A lightweight library management system built in .NET 5.0 with Entity Framework Core. Enables library administrators to manage Library Assets, Patrons, and Branches with basic functionality.
+
+------------------------------------------------------------------------------------------------------------
 
 ## Technologies & Concepts
 ### Technologies
-|`C#`|`ASP.NET Core 1.0`|`ASP.NET CORE Identity`|`LINQ`|
+|`C#`|`ASP.NET Core 1.0`|`EntityFrameworkCore`|`LINQ`|
 |:--------|:--------|:--------|:--------|
-|`MSSQL`|`Html &CSS`|`Bootstrap`|`JavaScript`|
+|`PostgreSQL`|`Html &CSS`|`Bootstrap 5`|`Razor Views`|
 
 
 
 ### Concepts  
-| `OOP`          | `MVC`          |`Design Patterns`|
-|  :--------     | :--------       |:--------       |
-
-------------------------------------------------------------------------------------------------------------
-
-## Services 
-  ### Registered Users :
-
-  -  CRUD on Posts With Pictures about specifec Forum Topic.
-  -  CRUD on Replies with pictures to any Post.
-  -  Change his Profile Image.
-  -  View all his recent posts at details page .
-  -  Delete any reply to his/her post.
-  -  Search by the global search or by the topic search.
-
+| `Model View Controller`| `Object Orietned Programming`|`Design Patterns`|`Design Patterns`|
+|  :--------     | :--------       |:--------       |:--------       |
+| `Code First database migrations `| `dependency injection`|`Services Patterns`|`ASP.NET Razor Engine`|
